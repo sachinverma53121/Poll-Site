@@ -25,7 +25,7 @@ SECRET_KEY = 'd#1=ap4%4=%z=kz5=yz9gnjj&oi)h3frsvctic_aj=p4g2eihf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vkarma-task.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['sachu-poll-site.herokuapp.com', 'localhost']
 
 
 # Application definition
